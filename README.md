@@ -1,5 +1,7 @@
 # Ai-analyzer
 
+all files ( https://drive.google.com/drive/folders/18O-_ZX92iS7O-j1yJr-BH79FoOZqnGYr?usp=drive_link )
+
 # AI Analyzer
 https://zesty-creponne-bfc1f3.netlify.app/
 

@@ -38,6 +38,9 @@ HLS URL: -https://localhost/stream.m3u8
 
 you can use hls.js for testing the stream
 
+## Access Ai analyzer:
+https://zesty-creponne-bfc1f3.netlify.app/
+
 ## Features
 
 - Customer tracking

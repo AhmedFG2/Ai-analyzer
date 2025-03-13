@@ -7,7 +7,6 @@ Real-time customer analytics using AI for emotion detection and tracking.
 ## Prerequisites
 
 - Node.js 18.0+ installed
-- Git installed
 - OpenSSL (for certificate generation)
 - install ffmpeg.exe
 

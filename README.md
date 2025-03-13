@@ -9,7 +9,7 @@ Real-time customer analytics using AI for emotion detection and tracking.
 
 - Node.js 18.0+ installed
 - OpenSSL (for certificate generation)
-- install ffmpeg.exe
+- install ffmpeg release https://www.ffmpeg.org/download.html
 
 ## Set-up
 Convert RTSP streams from IP cameras to HLS format and serve them securely via HTTPS. Perfect for browser-based video streaming.

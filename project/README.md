@@ -2,7 +2,7 @@
 
 # AI Analyzer
 
-Real-time customer analytics using AI for emotion detection and tracking.
+Real-time customer analytics using AI for detection and tracking.
 
 ## Prerequisites
 

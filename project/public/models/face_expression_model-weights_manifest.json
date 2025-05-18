@@ -1,0 +1,1 @@
+<command>curl -o public/models/face_expression_model-weights_manifest.json https://raw.githubusercontent.com/justadudewhohacks/face-api.js/master/weights/face_expression_model-weights_manifest.json</command>
